@@ -38,6 +38,8 @@ Sequências de instruções lógicas e bem definidas que resolvem um determinado
 
 ### Estruturas
 - ### ???
+
+- ### Conjunto
  
 - ### Árvore
 
