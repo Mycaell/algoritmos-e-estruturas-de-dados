@@ -53,3 +53,9 @@ Sequências de instruções lógicas e bem definidas que resolvem um determinado
   - #### Encadeada:
     - [ ] Simplesmente
     - [ ] Duplamente
+
+  <details>
+    <summary>Vantagens e Desvantagens</summary>
+    <br>
+    ![image](https://github.com/Mycaell/algoritmos-e-estruturas-de-dados/assets/44411808/ad5c218d-3235-4800-a0d1-382e70b81077)
+  </details>
