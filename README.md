@@ -54,8 +54,15 @@ Sequências de instruções lógicas e bem definidas que resolvem um determinado
     - [ ] Simplesmente
     - [ ] Duplamente
 
-  <details>
-    <summary>Vantagens e Desvantagens</summary>
     <br>
-    ![image](https://github.com/Mycaell/algoritmos-e-estruturas-de-dados/assets/44411808/ad5c218d-3235-4800-a0d1-382e70b81077)
-  </details>
+    <details>
+      <summary>Vantagens e Desvantagens</summary>
+      <br>
+      <div align="center">
+        <img src="https://github.com/Mycaell/algoritmos-e-estruturas-de-dados/assets/44411808/551ce872-0444-44d6-942d-98f8470258ff" alt="Linked list details" />
+      </div>
+    
+      <br>
+      <p>Fonte:</p>
+      <a href="https://www.geeksforgeeks.org/difference-between-singly-linked-list-and-doubly-linked-list/">https://www.geeksforgeeks.org/difference-between-singly-linked-list-and-doubly-linked-list/</a>
+    </details>
